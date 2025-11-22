@@ -7,6 +7,9 @@ This document contains a checklist of AI agents & traces following the idea from
 ## Checklist
 
 - [ ] **Claude Code Agent**
+Reference: https://pierce.dev/notes/under-the-hood-of-claude-code
+https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes
+https://medium.com/@outsightai/peeking-under-the-hood-of-claude-code-70f5a94a9a62
 
 - [ ] **MetaGPT: The Multi-Agent Framework**  
   The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI  
@@ -17,3 +20,5 @@ This document contains a checklist of AI agents & traces following the idea from
 More agents to be added from the [Awesome Agents](https://github.com/kyrolabs/awesome-agents?tab=readme-ov-file#software-development) repository, specifically focusing on the **Software Development** category.
 
 Back up list: https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file
+
+* If the agent is powered by an OPENAI model, the traces will be automatically tracked from the [OpenAI API Dashboard](https://platform.openai.com/logs).
