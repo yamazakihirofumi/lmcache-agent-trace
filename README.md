@@ -21,4 +21,8 @@ More agents to be added from the [Awesome Agents](https://github.com/kyrolabs/aw
 
 Back up list: https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file
 
-* If the agent is powered by an OPENAI model, the traces will be automatically tracked from the [OpenAI API Dashboard](https://platform.openai.com/logs).
+**Important note**: If the agent is powered by an OPENAI model, the traces will be automatically tracked from the [OpenAI API Dashboard](https://platform.openai.com/logs). Collecting traces should be easy.
+
+References:
+* https://www.anthropic.com/engineering/building-effective-agents
+* https://www.arxiv.org/pdf/2510.04618

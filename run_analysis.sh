@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Create result directories
-mkdir -p magagent_result_3
-mkdir -p miniswe_result_3
-mkdir -p taubench_result_3
+# mkdir -p magagent_result
+mkdir -p miniswe_result
+mkdir -p taubench_result
 
 # Function to process files in a directory
 process_directory() {
@@ -47,9 +47,9 @@ echo "Starting batch analysis..."
 echo "================================"
 echo ""
 
-process_directory "magagent" "magagent_result_3"
-process_directory "miniswe" "miniswe_result_3"
-process_directory "taubench" "taubench_result_3"
+# process_directory "magagent" "magagent_result"
+process_directory "miniswe" "miniswe_result"
+process_directory "taubench" "taubench_result"
 
 echo "================================"
 echo "Batch analysis complete!"
