@@ -30,3 +30,4 @@ References:
 * https://www.anthropic.com/engineering/building-effective-agents
 * https://www.arxiv.org/pdf/2510.04618
 * https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes
+* https://arxiv.org/pdf/2511.02230
