@@ -5,20 +5,24 @@ This repo is meant to run a series of experiments to collect trace data from AI 
 
 ## On-going Checklist
 
-- [ ] **Claude Code Agent**
-Reference: 
-* https://pierce.dev/notes/under-the-hood-of-claude-code
-* https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes
-* https://medium.com/@outsightai/peeking-under-the-hood-of-claude-code-70f5a94a9a62
+**Status Legend:**
+✅ Done, 🔄 Ongoing, ⏳ Wait to be taken, ❌ Failed
 
-- [ ] **MetaGPT: The Multi-Agent Framework**  
-  The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI  
-  https://github.com/geekan/MetaGPT
-  
-- [ ] **OpenHands**
-  OpenHands: Code Less, Make More. https://github.com/All-Hands-AI/OpenHands
+| Project Name | Status | Notes |
+|--------------|--------|-------|
+| [Claude Code Agent](https://pierce.dev/notes/under-the-hood-of-claude-code) | 🔄 | References: https://pierce.dev/notes/under-the-hood-of-claude-code, https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes, https://medium.com/@outsightai/peeking-under-the-hood-of-claude-code-70f5a94a9a62; Planning to release a huggingface blog on 11/26/2025|
+| [MetaGPT](https://github.com/geekan/MetaGPT) | ⏳ | The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🔄 | OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI |
+| [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | ⏳ | GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion |
+| [Aider](https://github.com/Aider-AI/aider) | ⏳ | aider is AI pair programming in your terminal |
+| [Devika](https://github.com/stitionai/devika) | ⏳ | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective |
+| [RepoAgent](https://github.com/OpenBMB/RepoAgent) | ⏳ | An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly |
+| [DSPy](https://github.com/stanfordnlp/dspy) | ⏳ | The framework for programming—not prompting—foundation models |
+| [ThinkGPT](https://github.com/alaeddine-13/thinkgpt) | ⏳ | Agent techniques to augment your LLM and push it beyond its limits |
+| [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI) | ⏳ | A small AGI experiment to generate a Python app given what app the user wants to build |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | ⏳ | SuperAGI - A dev-first open source autonomous AI agent framework |
 
-More agents to be added from the [Awesome Agents](https://github.com/kyrolabs/awesome-agents?tab=readme-ov-file#software-development) repository, specifically focusing on the **Software Development** category. If the list is drained, use the [backup list](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file).
+More agents to be added from the [Awesome Agents](https://github.com/kyrolabs/awesome-agents?tab=readme-ov-file#software-development) repository, specifically focusing on the **Software Development** category. If the list is drained, use the [backup list](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file). Contact [Kobe](https://github.com/kobe0938) for any questions.
 
 References:
 * https://www.anthropic.com/engineering/building-effective-agents
