@@ -27,6 +27,7 @@ This repo is meant to run a series of experiments to collect trace data from AI 
 More agents to be added from the [Awesome Agents](https://github.com/kyrolabs/awesome-agents?tab=readme-ov-file#software-development) repository, specifically focusing on the **Software Development** category. If the list is drained, use the [backup list](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file). Contact [Kobe](https://github.com/kobe0938) for any questions.
 
 References:
+* https://github.com/MLSysOps/Agent-Benchmarking-LMCache (open_deep_research and langmanus)
 * https://www.anthropic.com/engineering/building-effective-agents
 * https://www.arxiv.org/pdf/2510.04618 (Agentic Context Engineering)
 * https://arxiv.org/pdf/2511.02230 (CONTINUUM)
